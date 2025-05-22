@@ -4,6 +4,7 @@ public class Lingkaran {
 
     private double r;
     private final double pi = 3.141592;
+    
     public Lingkaran(double r) {
         this.r = r;
     }
